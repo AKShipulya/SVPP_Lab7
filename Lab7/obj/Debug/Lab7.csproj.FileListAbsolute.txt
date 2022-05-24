@@ -1,0 +1,16 @@
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\bin\Debug\Lab7.exe
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\bin\Debug\Lab7.pdb
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\MainWindow.g.cs
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\App.g.cs
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\MainWindow.baml
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.g.resources
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.exe
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_7\Project1\Lab7\obj\Debug\Lab7.pdb
