@@ -86,9 +86,10 @@ namespace Lab7
             var commandString = "UPDATE Person SET Name=@name, Sum=@sum WHERE(Id=@id)";
             SqlCommand updateCommand = new SqlCommand(commandString, connection);
             updateCommand.Parameters.AddRange(new SqlParameter[] {
-                             new SqlParameter("name", Name),
-                             new SqlParameter("sum", Sum),
-                             new SqlParameter("id", Id),});
+                                new SqlParameter("id", Id),
+                                new SqlParameter("name", Name),
+                                new SqlParameter("sum", Sum),
+            });
             updateCommand.ExecuteNonQuery();
             connection.Close();
         }
@@ -96,7 +97,7 @@ namespace Lab7
 
         public override string ToString()
         {
-            return $"№ {Id} Имя: {Name}, Сумма: {Sum:0.000}";
+            return $"№ {Id} Имя: {Name}, Сумма: {Sum:0.00}";
         }
     }
 
