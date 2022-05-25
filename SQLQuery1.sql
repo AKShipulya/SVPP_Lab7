@@ -1,1 +1,17 @@
-﻿
+﻿SELECT * FROM Person;
+
+DELETE FROM Person WHERE Name = 'Greg';
+
+ALTER TABLE Person DROP COLUMN Id;
+
+ALTER TABLE Person ADD Id INT IDENTITY(1,1);
+
+INSERT INTO Person (Name, Sum) VALUES ('Greg', 90.99);
+
+DROP TABLE Person;
+
+CREATE TABLE Person (
+	Id INT NOT NULL IDENTITY(1,1),
+	Name VARCHAR(80),
+	Sum DECIMAL(8, 2)
+);

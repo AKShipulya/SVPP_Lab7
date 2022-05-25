@@ -22,7 +22,6 @@ namespace Lab7
         }
         private static void openConnection()
         {
-            // из-за метода getAllPersons() подключение может оставаться открытым
             if (connection.State == System.Data.ConnectionState.Open)
                 connection.Close();
             connection.Open();
